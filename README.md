@@ -1,10 +1,10 @@
-# Agentic GraphRAG
+# Easy code
 
 > 基于 ReAct 范式的通用 Agent 框架，集成知识图谱与向量检索的智能问答系统
 
 ## 项目简介
 
-Agentic GraphRAG 是一个通用的 Agent 框架，基于 **ReAct (Reasoning + Acting)** 范式实现多轮推理智能体系统。通过工具系统、技能系统和上下文工程，实现复杂任务的自动化处理。
+Easy code 是一个通用的 Agent 框架，基于 **ReAct (Reasoning + Acting)** 范式实现多轮推理智能体系统。通过工具系统、技能系统和上下文工程，实现复杂任务的自动化处理。
 
 系统集成了 **知识图谱** 和 **向量检索** 能力，支持文档上传、知识库构建、混合检索等功能，为用户提供智能化的知识问答服务。
 
